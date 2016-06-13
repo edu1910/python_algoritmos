@@ -45,10 +45,3 @@ else:
     print('Nenhum recorde registrado.')
 
 print("\n")
-
-
-
-
-
-
-
